@@ -1,0 +1,5 @@
+*.pyc
+.babel
+__pycache__
+db.sqlite3
+.vscode/
