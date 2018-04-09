@@ -64,14 +64,7 @@ There are three scripts available for starting and stopping the containers:
 
 <tr>
 
-<td>![Blue](gtk-dialog-authentication-blue.48x48.png)</td>
-
-<td>[
-
-## Blue
-
-](http://localhost:8180/simplesaml/module.php/core/authenticate.php)</td>
-
+<td>**Blue**</td>
 </tr>
 
 </tbody>
@@ -170,13 +163,7 @@ There are three scripts available for starting and stopping the containers:
 
 <tr>
 
-<td>![Green](gtk-dialog-authentication-green.48x48.png)</td>
-
-<td>[
-
-## Green
-
-](http://localhost:8280/simplesaml/module.php/core/authenticate.php)</td>
+<td>**Green**</td>
 
 </tr>
 
@@ -276,13 +263,7 @@ There are three scripts available for starting and stopping the containers:
 
 <tr>
 
-<td>![Red](gtk-dialog-authentication-red.48x48.png)</td>
-
-<td>[
-
-## Red
-
-](http://localhost:8380/simplesaml/module.php/core/authenticate.php)</td>
+<td>**Red**</td>
 
 </tr>
 
@@ -382,14 +363,9 @@ There are three scripts available for starting and stopping the containers:
 
 <tr>
 
-<td>![Yellow](gtk-dialog-authentication-yellow.48x48.png)</td>
+<td>**Yellow**</td>
 
-<td>[
-
-## Yellow
-
-](http://localhost:8480/simplesaml/module.php/core/authenticate.php)</td>
-
+<td>
 </tr>
 
 </tbody>
