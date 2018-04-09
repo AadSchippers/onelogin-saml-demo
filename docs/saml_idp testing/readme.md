@@ -364,8 +364,6 @@ There are three scripts available for starting and stopping the containers:
 <tr>
 
 <td>**Yellow**</td>
-
-<td>
 </tr>
 
 </tbody>
